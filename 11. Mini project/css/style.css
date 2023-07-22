@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(14, 98, 117);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+    line-height: 1.6rem;
+}
+.Accordian{
+    background-color: whitesmoke;
+    padding: 4px 16px;
+    margin-bottom: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 2px 2px 15px rgb(81, 8, 55);
+}
+.Questions{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.icon{
+    margin-right: 16px;
+}
+.Answers{
+    color: gray;
+}
